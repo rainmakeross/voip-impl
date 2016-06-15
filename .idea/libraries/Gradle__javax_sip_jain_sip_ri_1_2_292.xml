@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: javax.sip:jain-sip-ri:1.2.292">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/jain-sip-ri/1.2.292/ce7c1d12b247bd648ff28db2f161049339fd934a/jain-sip-ri-1.2.292.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.sip/jain-sip-ri/1.2.292/dbbda4245ae1aba8c36aca48daa2d4532c8c525b/jain-sip-ri-1.2.292-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
